@@ -40,4 +40,4 @@ jobs:
         push: true
         tags: |
           ghcr.io/${{ github.repository_owner }}/MM_TH_VPN-Website.git:v1.0.2
-          ghcr.io/${{ github.repository_owner }}/MM_TH_VPN-Website.git
+          ghcr.io/${{ github.repository_owner }}/MM_TH_VPN-Website
