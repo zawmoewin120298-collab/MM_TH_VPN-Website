@@ -39,5 +39,5 @@ jobs:
         file: ./Dockerfile
         push: true
         tags: |
-          ghcr.io/${{ github.repository_owner }}/cdn-proxy-vless:v1.0.2
-          ghcr.io/${{ github.repository_owner }}/cdn-proxy-vless:latest
+          ghcr.io/${{ github.repository_owner }}/MM_TH_VPN-Website.git:v1.0.2
+          ghcr.io/${{ github.repository_owner }}/MM_TH_VPN-Website.git
